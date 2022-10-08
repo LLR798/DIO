@@ -1,0 +1,45 @@
+Posição,Equipes,Estado,Cidade,Temporadas,Pontos,Jogos,Vitórias,Empates,Derrotas,GP,GC,SG,Número de vezes que ganhou,Número de vezes que foi rebaixado,Melhor colocação
+1,São Paulo,São Paulo,São Paulo,19,1217,742,338,203,201,1068,799,269,3,0,1º
+2,Flamengo,Rio de Janeiro,Rio de Janeiro,19,1151,742,317,204,221,1053,881,172,3,0,1º
+3,Santos,São Paulo,Santos,19,1147,742,317,196,229,1095,877,218,1,0,1º
+4,Corinthians,São Paulo,São Paulo,18,1094,704,296,204,204,908,748,160,4,1,1º
+5,Internacional,Rio Grande do Sul,Porto Alegre,18,1093,704,304,179,221,938,777,161,0,1,2º
+6,Grêmio,Rio Grande do Sul,Porto Alegre,18,1065,700,295,180,225,956,778,178,0,2,2º
+7,Atlético Mineiro,Minas Gerais,Belo Horizonte,18,1056,704,293,177,234,1034,912,122,1,1,1º
+8,Fluminense,Rio de Janeiro,Rio de Janeiro,19,1055,742,285,198,259,984,944,40,2,0,1º
+9,Cruzeiro,Minas Gerais,Belo Horizonte,17,1030,666,293,151,222,978,818,160,3,1,1º
+10,Palmeiras,São Paulo,São Paulo,17,1026,658,286,168,204,947,780,167,2,1,1º
+11,Athletico Paranaense,Paraná,Curitiba,18,1002,704,279,165,260,934,874,60,0,1,2º
+12,Botafogo,Rio de Janeiro,Rio de Janeiro,16,814,620,214,172,234,777,801,-24,0,2,4º
+13,Vasco da Gama,Rio de Janeiro,Rio de Janeiro,15,767,590,197,176,217,746,830,-84,0,4,2º
+14,Goiás,Goiás,Goiânia,13,685,514,189,118,207,713,733,-20,0,3,3º
+15,Coritiba,Paraná,Curitiba,13,646,514,169,139,206,613,654,-41,0,4,5º
+16,Figueirense,Santa Catarina,Florianópolis,11,550,438,142,124,172,530,622,-92,0,3,7º
+17,Sport,Pernambuco,Recife,11,497,418,131,107,180,457,555,-98,0,4,6º
+18,Vitória,Salvador,Bahia,10,468,396,123,99,174,492,581,-89,0,4,5º
+19,Bahia,Salvador,Bahia,10,458,388,115,113,160,430,512,-82,0,2,11º
+20,Ponte Preta,São Paulo,Campinas,9,432,362,114,91,157,414,534,-120,0,3,8º
+21,Juventude,Rio Grande do Sul,Caxias do Sul,6,312,248,82,63,103,304,371,-67,0,1,7º
+22,Paraná,Paraná,Curitiba,6,304,248,83,55,110,312,369,-57,0,2,5º
+23,Fortaleza,Ceará,Fortaleza,6,294,240,78,60,102,283,338,-55,0,2,4º
+24,Chapecoense,Santa Catarina,Chapecó,7,287,266,70,77,119,261,362,-101,0,2,8º
+25,Ceará,Ceará,Fortaleza,6,271,228,65,76,87,243,276,-33,0,1,11º
+26,Atlético Goianiense,Goiás,Goiânia,6,259,228,64,67,97,249,306,-57,0,2,9º
+27,Avaí,Santa Catarina,Florianópolis,6,236,228,57,65,106,240,355,-115,0,4,6º
+28,São Caetano,São Paulo,São Caetano do Sul,4,215,172,65,41,66,209,199,10,0,1,4º
+29,Náutico,Pernambuco,Recife,5,200,190,54,38,98,224,318,-94,0,2,12º
+30,Criciúma,Santa Catarina,Criciúma,4,188,168,50,38,80,195,266,-71,0,1,14º
+31,América Mineiro,Minas Gerais,Belo Horizonte,4,158,152,38,44,70,145,211,-66,0,3,8º
+32,Guarani,São Paulo,Campinas,3,147,130,36,39,55,140,180,-40,0,2,13º
+33,Paysandu,Pará,Belém,3,146,134,41,31,62,193,245,-52,0,1,14º
+34,Portuguesa,São Paulo,São Paulo,3,127,114,31,38,45,137,157,-20,0,2,16º
+35,Red Bull Bragantino,São Paulo,Brança Paulista,2,109,76,27,28,21,105,86,19,0,0,6º
+36,Grêmio Barueri,São Paulo,Barueri,2,77,76,19,23,34,98,116,-18,0,1,11º
+37,Santa Cruz,Pernambuco,Recife,2,56,76,15,14,47,86,145,-59,0,2,19º
+38,Cuiabá,Mato Grosso,Cuiabá,1,47,38,10,17,11,34,37,-3,0,0,15º
+39,Santo André,São Paulo,Santo André,1,41,38,11,8,19,46,61,-15,0,1,18º
+40,Brasiliense,Distro Federal,Taguatinga,1,41,42,10,11,21,47,67,-20,0,1,22º
+41,Ipatinga,Minas Gerais,Ipatinga,1,35,38,9,8,21,37,67,-30,0,1,20º
+42,CSA,Alagoas,Maceió,1,32,38,8,8,22,24,58,-34,0,1,18º
+43,Joinville,Santa Catarina,Joinville,1,31,38,7,10,21,26,48,-22,0,1,20º
+44,América de Natal,Rio Grande do Norte,Natal,1,17,38,4,5,29,24,80,-56,0,1,20º
