@@ -1,0 +1,15 @@
+D:\Desenvolvedor\Projetos backend\Sistema de estacionamento\bin\Debug\net6.0\Sistema de estacionamento.exe
+D:\Desenvolvedor\Projetos backend\Sistema de estacionamento\bin\Debug\net6.0\Sistema de estacionamento.deps.json
+D:\Desenvolvedor\Projetos backend\Sistema de estacionamento\bin\Debug\net6.0\Sistema de estacionamento.runtimeconfig.json
+D:\Desenvolvedor\Projetos backend\Sistema de estacionamento\bin\Debug\net6.0\Sistema de estacionamento.dll
+D:\Desenvolvedor\Projetos backend\Sistema de estacionamento\bin\Debug\net6.0\Sistema de estacionamento.pdb
+D:\Desenvolvedor\Projetos backend\Sistema de estacionamento\obj\Debug\net6.0\Sistema de estacionamento.csproj.AssemblyReference.cache
+D:\Desenvolvedor\Projetos backend\Sistema de estacionamento\obj\Debug\net6.0\Sistema de estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvedor\Projetos backend\Sistema de estacionamento\obj\Debug\net6.0\Sistema de estacionamento.AssemblyInfoInputs.cache
+D:\Desenvolvedor\Projetos backend\Sistema de estacionamento\obj\Debug\net6.0\Sistema de estacionamento.AssemblyInfo.cs
+D:\Desenvolvedor\Projetos backend\Sistema de estacionamento\obj\Debug\net6.0\Sistema de estacionamento.csproj.CoreCompileInputs.cache
+D:\Desenvolvedor\Projetos backend\Sistema de estacionamento\obj\Debug\net6.0\Sistema de estacionamento.dll
+D:\Desenvolvedor\Projetos backend\Sistema de estacionamento\obj\Debug\net6.0\refint\Sistema de estacionamento.dll
+D:\Desenvolvedor\Projetos backend\Sistema de estacionamento\obj\Debug\net6.0\Sistema de estacionamento.pdb
+D:\Desenvolvedor\Projetos backend\Sistema de estacionamento\obj\Debug\net6.0\Sistema de estacionamento.genruntimeconfig.cache
+D:\Desenvolvedor\Projetos backend\Sistema de estacionamento\obj\Debug\net6.0\ref\Sistema de estacionamento.dll
