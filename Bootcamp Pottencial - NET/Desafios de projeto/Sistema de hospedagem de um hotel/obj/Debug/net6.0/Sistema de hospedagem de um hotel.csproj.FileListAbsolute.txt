@@ -1,0 +1,15 @@
+D:\Desenvolvedor\Programacao\DIO\Projetos\DIO\Bootcamp Pottencial - NET\Desafios de projeto\Sistema de hospedagem de um hotel\bin\Debug\net6.0\Sistema de hospedagem de um hotel.exe
+D:\Desenvolvedor\Programacao\DIO\Projetos\DIO\Bootcamp Pottencial - NET\Desafios de projeto\Sistema de hospedagem de um hotel\bin\Debug\net6.0\Sistema de hospedagem de um hotel.deps.json
+D:\Desenvolvedor\Programacao\DIO\Projetos\DIO\Bootcamp Pottencial - NET\Desafios de projeto\Sistema de hospedagem de um hotel\bin\Debug\net6.0\Sistema de hospedagem de um hotel.runtimeconfig.json
+D:\Desenvolvedor\Programacao\DIO\Projetos\DIO\Bootcamp Pottencial - NET\Desafios de projeto\Sistema de hospedagem de um hotel\bin\Debug\net6.0\Sistema de hospedagem de um hotel.dll
+D:\Desenvolvedor\Programacao\DIO\Projetos\DIO\Bootcamp Pottencial - NET\Desafios de projeto\Sistema de hospedagem de um hotel\bin\Debug\net6.0\Sistema de hospedagem de um hotel.pdb
+D:\Desenvolvedor\Programacao\DIO\Projetos\DIO\Bootcamp Pottencial - NET\Desafios de projeto\Sistema de hospedagem de um hotel\obj\Debug\net6.0\Sistema de hospedagem de um hotel.csproj.AssemblyReference.cache
+D:\Desenvolvedor\Programacao\DIO\Projetos\DIO\Bootcamp Pottencial - NET\Desafios de projeto\Sistema de hospedagem de um hotel\obj\Debug\net6.0\Sistema de hospedagem de um hotel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvedor\Programacao\DIO\Projetos\DIO\Bootcamp Pottencial - NET\Desafios de projeto\Sistema de hospedagem de um hotel\obj\Debug\net6.0\Sistema de hospedagem de um hotel.AssemblyInfoInputs.cache
+D:\Desenvolvedor\Programacao\DIO\Projetos\DIO\Bootcamp Pottencial - NET\Desafios de projeto\Sistema de hospedagem de um hotel\obj\Debug\net6.0\Sistema de hospedagem de um hotel.AssemblyInfo.cs
+D:\Desenvolvedor\Programacao\DIO\Projetos\DIO\Bootcamp Pottencial - NET\Desafios de projeto\Sistema de hospedagem de um hotel\obj\Debug\net6.0\Sistema de hospedagem de um hotel.csproj.CoreCompileInputs.cache
+D:\Desenvolvedor\Programacao\DIO\Projetos\DIO\Bootcamp Pottencial - NET\Desafios de projeto\Sistema de hospedagem de um hotel\obj\Debug\net6.0\Sistema de hospedagem de um hotel.dll
+D:\Desenvolvedor\Programacao\DIO\Projetos\DIO\Bootcamp Pottencial - NET\Desafios de projeto\Sistema de hospedagem de um hotel\obj\Debug\net6.0\refint\Sistema de hospedagem de um hotel.dll
+D:\Desenvolvedor\Programacao\DIO\Projetos\DIO\Bootcamp Pottencial - NET\Desafios de projeto\Sistema de hospedagem de um hotel\obj\Debug\net6.0\Sistema de hospedagem de um hotel.pdb
+D:\Desenvolvedor\Programacao\DIO\Projetos\DIO\Bootcamp Pottencial - NET\Desafios de projeto\Sistema de hospedagem de um hotel\obj\Debug\net6.0\Sistema de hospedagem de um hotel.genruntimeconfig.cache
+D:\Desenvolvedor\Programacao\DIO\Projetos\DIO\Bootcamp Pottencial - NET\Desafios de projeto\Sistema de hospedagem de um hotel\obj\Debug\net6.0\ref\Sistema de hospedagem de um hotel.dll
