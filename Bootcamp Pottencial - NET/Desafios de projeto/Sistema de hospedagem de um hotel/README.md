@@ -19,8 +19,8 @@ Você precisará construir as classes, conforme o diagrama abaixo:
 ![Diagrama de classe hotel](diagrama_classe_hotel.png)
 
 
-## Proposta:
+## Implementação:
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
 
 ## Solução:
-Foi realizado com sucesso o desafio proposto, em breve vou incluir um summary para cada método criado, para facilitar uma manutenção e até mesmo a orientação dentro do código, além de um menu.
+Foi realizado com sucesso o desafio proposto, espero que gostem.
