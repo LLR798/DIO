@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e211921-ab8c-4c90-9539-6147e3259431" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator/bin/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator/lib/execute.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator/lib/models/abstract_person.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator/lib/models/imc_calculator.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator/lib/utils/console_utils.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator/test/imc_calculator_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/android/app/src/main/kotlin/com/example/imc_calculator_flutter/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/ios/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/lib/model/imc.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/lib/my_app.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/lib/pages/home_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/lib/pages/splash_screen_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/lib/repository/imc_repository.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_flutter/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/android/app/src/main/kotlin/com/example/imc_calculator_hive/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Podfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/ios/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/lib/model/imc_model.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/lib/model/imc_model.g.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/lib/my_app.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/lib/pages/home_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/lib/pages/splash_screen_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/lib/repository/imc_repository.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootcamp Santander - Flutter/imc_calculator_hive/pubspec.yaml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2ae158aTjWtqHfMOGFpZxrsqSoI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e211921-ab8c-4c90-9539-6147e3259431" name="Changes" comment="" />
+      <created>1704664046187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704664046187</updated>
+      <workItem from="1704664048342" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
